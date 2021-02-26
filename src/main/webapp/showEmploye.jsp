@@ -13,6 +13,8 @@
      Name :: <input type= "text" name ="name" value = ${employe.name}><br><br>
      Technology :: <input type= "text" name ="tech" value = ${employe.tech}><br><br>
              
+             Added one comment to check the GIT checkin status
+             
 	<input type ="submit"> 
 </form>
 </body>
